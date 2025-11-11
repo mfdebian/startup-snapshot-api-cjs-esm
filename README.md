@@ -24,7 +24,7 @@ Steps to reproduce:
 
 ### Expected behaviour
 
-For the CJS it works as expected, steps:
+For the CJS version it works as expected, steps:
 
 `$ cd cjs/`
 
